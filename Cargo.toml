@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "learn rust"
 # clarify the control flow
+# handle the edge case from the last release
